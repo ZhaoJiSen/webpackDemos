@@ -1,9 +1,10 @@
 .idea
-/home/dist
-/home/node_modules
 
-/nav/dist
-/nav/node_modules
+moduleFederation/home/dist
+moduleFederation/home/node_modules
 
-/search/dist
-/search/node_modules
+moduleFederation/nav/dist
+moduleFederation/nav/node_modules
+
+moduleFederation/search/dist
+moduleFederation/search/node_modules
