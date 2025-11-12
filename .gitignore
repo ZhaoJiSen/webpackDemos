@@ -1,0 +1,9 @@
+.idea
+/home/dist
+/home/node_modules
+
+/nav/dist
+/nav/node_modules
+
+/search/dist
+/search/node_modules
